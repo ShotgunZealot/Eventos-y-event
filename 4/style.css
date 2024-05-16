@@ -1,0 +1,10 @@
+.estilo-inicial {
+    background-color: lightblue;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.estilo-alternativo {
+    text-decoration: underline;
+    background-color: lightcoral;
+}

@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.parallax-container {
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+}
+
+.parallax-content {
+    background-image: url('image.png');
+    background-size: cover;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+p {
+    margin-bottom: 40%;
+}
